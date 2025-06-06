@@ -11,7 +11,7 @@
 ---
 
 ### 🔭 Current Projects
-- 🧠 SNS & Mental Health (R): data cleaning & correlation analysis  
+- 🧠 Social Media & Mental Health (R): data cleaning & correlation analysis  
 - 😊 GDP & Happiness (Python): preprocessing, regression & visualization  
 - 🏈 NFL Stats (R): performance charts & interactive HTML dashboard
 
