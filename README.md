@@ -25,12 +25,6 @@
 - Data mining & clustering
 - Data visualization best practices
 
----
-
-### 🏷 Certifications
--  ✅ ADsP certified — South Korea’s official semi-professional certification in data analytics, covering R programming, statistics, and data mining fundamentals
-
-
 
 ---
 
